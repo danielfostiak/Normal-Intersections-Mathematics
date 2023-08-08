@@ -28,7 +28,6 @@ However it is not hard to change the code in order to make it work. I'll leave i
 ![Screenshot](1overx.png)
 ## BONUS2: $y=\sin(x)$, but not really...
 Sorry to disappoint, but sinx is very difficult to get normal numerical solutions. Can you figure out how I did it. Hint: Polynomials are easy to do, trig/transcendentals are hard.
-It takes very long to get a decent plot of the normals, and there is some 'noise' to the plot. However, I still think it looks pretty cool.
 ![Screenshot](sinx.png)
 
 
