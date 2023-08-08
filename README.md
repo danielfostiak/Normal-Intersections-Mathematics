@@ -26,5 +26,10 @@ Here are a few. (There are more beautiful ones, but I will leave them to you to 
 ## BONUS: $y=\frac{1}{x}$, this one is not possible using the code as it is. 
 However it is not hard to change the code in order to make it work. I'll leave it as a challenge
 ![Screenshot](1overx.png)
+## BONUS2: $y=\sin(x)$, but not really...
+Sorry to disappoint, but sinx is very difficult to get normal numerical solutions. Can you figure out how I did it. Hint: Polynomials are easy to do, trig/transcendentals are hard.
+It takes very long to get a decent plot of the normals, and there is some 'noise' to the plot. However, I still think it looks pretty cool.
+![Screenshot](sinx.png)
+
 
 (All plots were generated using DETAIL=400, took my Macbook Air about a minute to produce each one on Jupyter Notebook)
