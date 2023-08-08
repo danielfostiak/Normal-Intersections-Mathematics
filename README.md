@@ -32,4 +32,4 @@ It takes very long to get a decent plot of the normals, and there is some 'noise
 ![Screenshot](sinx.png)
 
 
-(All plots were generated using DETAIL=400, took my Macbook Air about a minute to produce each one on Jupyter Notebook)
+(Most plots were generated using DETAIL=400, took my Macbook Air about a minute to produce each one on Jupyter Notebook)
