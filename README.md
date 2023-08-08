@@ -7,7 +7,7 @@ The problem is very nice and only requires elementary methods in calculus, such 
 
 After solving this problem I came to the answer of a line which separated the cartesian plane into two sections, the region above the line contained all points with 3 normals that intersect, the region below contained all points which had 1 normal, and on the line itself had points which had 2 normals (or 1 normal, and 2 'repeated' normals. That line is shown below.
 
-## $y=\frac{3x^23}{2\sqrt[3]{2}}+\frac{1}{2}$
+## $y=\frac{3x^\frac{2}{3}}{2\sqrt[3]{2}}+\frac{1}{2}$
 
 As a mathematician, I was intrigued to generalize my solution to work with other polynomials and maybe some transcendental curves. However, I quickly realised this would be very difficult as it would require solving equations only possible through numerical methods, such as some polynomials with degrees n, where n > 4.
 
