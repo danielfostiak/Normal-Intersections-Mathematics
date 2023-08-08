@@ -16,9 +16,10 @@ I then decided that it would be interesting to visualise these areas via numeric
 Here are a few. (There are more beautiful ones, but I will leave them to you to find)
 
 ## Normal intersections for $y=x^2$
-
+![Screenshot](x^2.png)
 ## Normal intersections for $y=x^4$
-
+![Screenshot](x^4.png)
 ## Normal intersections for $y=x^4-4x^2$
-
+![Screenshot](x^4-4x^2.png)
 ## Normal intersections for $y=x^5-x^3$
+![Screenshot](x^5-x^3.png)
