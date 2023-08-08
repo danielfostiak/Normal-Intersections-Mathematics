@@ -23,5 +23,8 @@ Here are a few. (There are more beautiful ones, but I will leave them to you to 
 ![Screenshot](x^4-4x^2.png)
 ## Normal intersections for $y=x^5-x^3$
 ![Screenshot](x^5-x^3.png)
+## BONUS: $y=\frac{1}{x}$, this one is not possible using the code as it is. 
+However it is not hard to change the code in order to make it work. I'll leave it as a challenge
+![Screenshot](1/x.png)
 
 (All plots were generated using DETAIL=400, took my Macbook Air about a minute to produce each one on Jupyter Notebook)
