@@ -16,20 +16,32 @@ I then decided that it would be interesting to visualise these areas via numeric
 Here are a few. (There are more beautiful ones, but I will leave them to you to find)
 
 ## Normal intersections 
-$y=x^2$
-![Screenshot](x^2.png)
+$y=x^2$ 
+## 
+![Screenshot1](/x^2.png)
+## 
 $y=x^4$
-![Screenshot](x^4.png)
+## 
+![Screenshot2](/x^4.png)
+## 
 $y=x^4-4x^2$
-![Screenshot](x^4-4x^2.png)
+## 
+![Screenshot3](/x^4-4x^2.png)
+## 
 $y=x^5-x^3$
-![Screenshot](x^5-x^3.png)
+## 
+![Screenshot4](/x^5-x^3.png)
+## 
 $y=\frac{1}{x}$, this one is not possible using the code as it is. 
 However it is not hard to change the code in order to make it work. I'll leave it as a challenge
-![Screenshot](1overx.png)
+## 
+![Screenshot5](/1overx.png)
+## 
 $y=\sin(x)$, but not really...
 Sorry to disappoint, but sinx is very difficult to get normal numerical solutions. Can you figure out how I did it. Hint: Polynomials are easy to do, trig/transcendentals are hard.
-![Screenshot](sinx.png)
+## 
+![Screenshot6](/sinx.png)
+## 
 
 
 (Most plots were generated using DETAIL=400, took my Macbook Air about a minute to produce each one on Jupyter Notebook)
