@@ -13,7 +13,14 @@ As a mathematician, I was intrigued to generalize my solution to work with other
 
 I then decided that it would be interesting to visualise these areas via numerical and computational methods. 
 
-Here are a few. (There are more beautiful ones, but I will leave them to you to find)
+Here are a few. (There are more beautiful ones, but I will leave them to you to find).
+
+## Algorithms learnt
+Brent's Method: A numerical root-finding algorithm used to approximate the roots of a polynomial or any continuous function. It combines the bisection method, secant method, and inverse quadratic interpolation for efficient and robust convergence.
+
+Numpy's Method: NumPy's roots() function uses an eigenvalue-based approach for polynomial root-finding, particularly for real polynomial coefficients. I wish I had a better understanding of eigenvalues and matrix manipulation to explain this better. I am excited to learn more about it.
+
+I chose to use Numpy's roots() method as it was faster than Brent's Method when I timed the speeds of both algorithms. However, I do believe that Brent's method is more intuitive and easier to understand and am sure there are situations where it is advantageous to use it.
 
 ## Normal intersections 
 $y=x^2$ 
